@@ -33,7 +33,7 @@ public class VectorStackTest {
     }
 
     @Test
-    public void testCreal() {
+    public void testClear() {
         stack.push(1);
         stack.push(2);
         stack.clear();
